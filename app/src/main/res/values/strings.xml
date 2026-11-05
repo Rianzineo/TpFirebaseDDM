@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Minha Conta</string>
+    <string name="login_title">Seu espaço começa aqui</string>
+    <string name="login_description">Acesse sua conta para continuar.</string>
+    <string name="sign_in">Entrar com e-mail</string>
+    <string name="register">Criar uma conta</string>
+    <string name="register_hint">Primeiro acesso? Informe um novo e-mail na próxima tela para se cadastrar.</string>
+    <string name="welcome">Olá, %1$s!</string>
+    <string name="default_name">visitante</string>
+    <string name="account_title">Minha conta</string>
+    <string name="account_description">Você está conectado. Confira abaixo o e-mail da sua conta.</string>
+    <string name="sign_out">Sair da conta</string>
+    <string name="sign_in_error">Não foi possível entrar. Verifique sua conexão e tente novamente.</string>
+    <string name="sign_out_error">Não foi possível sair. Tente novamente.</string>
+</resources>
